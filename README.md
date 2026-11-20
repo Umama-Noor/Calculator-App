@@ -27,3 +27,5 @@ A simple and clean Calculator App built with HTML, CSS and JavaScript. Perform b
 ## 📬 Contact
 - GitHub: https://github.com/Umama-Noor
 - LinkedIn: https://www.linkedin.com/in/umama-noor
+
+![Calculator Screenshot](Calculator Screenshot.png)
