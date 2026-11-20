@@ -1,10 +1,10 @@
-# Calculator App
+# Calculator
 
-A simple and clean Calculator App built with HTML, CSS and JavaScript. Perform basic calculations quickly with a beautiful and easy-to-use interface.
+A simple and clean Calculator App built with HTML, CSS and JavaScript. Perform basic arithmetic operations with a modern and responsive design.
 
 ## ✨ Features
 - Addition, Subtraction, Multiplication, Division
-- Clear (C) and Delete functions
+- Clear (C) and Delete functionality
 - Decimal point support
 - Responsive design for mobile and desktop
 - Clean and modern UI
